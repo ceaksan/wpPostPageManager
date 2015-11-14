@@ -1,6 +1,6 @@
 === wpPostPageManager ===
 Contributors: Ceyhun Enki Aksan
-Donate link: http://ceaksan.com/en/wppostpagemanager/
+Donate link: https://www.paypal.me/cea
 Tags: wordpress, admin, published, posts, pages, custom types, edit link, add link, future posts, posts edit, pages edit
 Requires at least: 3.8
 Tested up to: 4.3.1
