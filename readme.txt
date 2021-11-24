@@ -1,7 +1,7 @@
 === wpPostPageManager ===
 Contributors: Ceyhun Enki Aksan
 Donate link: https://www.buymeacoffee.com/AoB4HUniY
-Tags: wordpress, admin, published, posts, pages, custom types, edit link, add link, future posts, posts edit, pages edit
+Tags: wordpress, admin, posts, pages, custom types, edit link, add link, scheduled posts, posts edit, pages edit
 Requires at least: 3.8
 Tested up to: 5.5.1
 Stable tag: 1.0.0
